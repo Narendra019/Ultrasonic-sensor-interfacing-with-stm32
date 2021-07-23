@@ -27,5 +27,5 @@ Formula: uS / 58 = centimeters or uS / 148 =inch; or:
 The range = high level time * velocity (340M/S) /2 
 
 # working gif link below
-![image](https://user-images.githubusercontent.com/64159350/126761905-2ac87811-cc30-42bc-a39d-2d42071474e7.png)
-![image](https://user-images.githubusercontent.com/64159350/126761997-3379ef61-f4c4-4780-801a-db98af22e771.png)
+![image](https://user-images.githubusercontent.com/64159350/126761905-2ac87811-cc30-42bc-a39d-2d42071474e7.gif)
+![image](https://user-images.githubusercontent.com/64159350/126761997-3379ef61-f4c4-4780-801a-db98af22e771.gif)
